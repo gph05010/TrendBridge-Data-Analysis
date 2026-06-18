@@ -194,4 +194,4 @@ data analysis/
 > 본 저장소는 TrendBridge 팀 프로젝트에서 제가 담당한 채용공고 데이터 분석 작업을 정리한 개인 기록 저장소입니다.
 > 전체 서비스 코드는 팀 레포지토리에서 관리되었습니다.
 
-* Team Repository: [팀_레포_URL](https://github.com/gph05010/TrendBridge-Data-Analysis)
+* Team Repository: [팀_레포_URL](https://github.com/hap728/KDT-4team-Project)
